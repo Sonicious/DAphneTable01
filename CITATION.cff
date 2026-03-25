@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "This message is a note on Zenodo"
+authors:
+- family-names: "Lisa"
+  given-names: "Mona"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Angelo"
+  given-names: "Miche"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Awesome DAPHNE Software"
+version: 2.0
+date-released: 2026-03-25
